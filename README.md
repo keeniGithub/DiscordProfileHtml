@@ -11,5 +11,6 @@ Website of this project on [Netlify](https://discordprofilehtml.netlify.app)
 |
 [telegram](https://t.me/kenyka)
 |
-[FunPay](https://t.me/kenyka)
-</div>
+[YouTube](https://www.youtube.com/channel/UCM6InRH22Xno8nywrZnbhLA)
+|
+[GGdash](https://discord.gg/r6gCRR75Un)
